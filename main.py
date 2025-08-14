@@ -14,4 +14,7 @@ food_data = {
     ("흐림", "우울"): ("부드러운 크림스프", "https://images.unsplash.com/photo-1603071659230-2d9b58d69db3"),
     ("흐림", "피곤"): ("카레라이스", "https://images.unsplash.com/photo-1598515213645-6aa4f30cc3f4"),
     ("흐림", "설렘"): ("티라미수", "https://images.unsplash.com/photo-1601979031896-8eaf5c4037b3"),
-    ("흐림", "긴장"): ("토마토 리조또", "https://images.unsplash.com/photo-1603070649634-ef08b401
+    ("흐림", "긴장"): ("토마토 리조또", "https://images.unsplash.com/photo-1603070649634-ef08b401))
+                
+                          
+
